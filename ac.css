@@ -69,10 +69,10 @@ body::-webkit-scrollbar-thumb {
 
 /* ====== GENERAL ====== */
 
-body.index, body, .s-comments-product, .bg-white, .s-quantity-input-container, .banner--fixed img, .tamara-product-widget, .spotii-wrapper, .banner-entry, .mm-spn.mm-spn--light, #mainnav, .footer-is-light .store-footer,footer.store-footer{
+body.index, body, .s-comments-product, .bg-white, .s-quantity-input-container, .banner--fixed img, .tamara-product-widget, .spotii-wrapper, .banner-entry, .mm-spn.mm-spn--light, #mainnav, .footer-is-light .store-footer {
     /* background: #faf7f2 !important; */
     /* background: #ffffff !important; */
-    background: #302b59 !important;
+    background: #2b2b54 !important;
 }
 .footer-is-light .store-footer .store-footer__inner{
 
@@ -787,10 +787,12 @@ a {
 
 }
 
-body.index, body, .s-comments-product, .bg-white, .s-quantity-input-container, .banner--fixed img, .tamara-product-widget, .spotii-wrapper, .banner-entry, .mm-spn.mm-spn--light, #mainnav, .footer-is-light .store-footer,footer.store-footer{
-   
-    background: #302b59 !important;
+body.index, body, .s-comments-product, .bg-white, .s-quantity-input-container, .banner--fixed img, .tamara-product-widget, .spotii-wrapper, .banner-entry, .mm-spn.mm-spn--light, #mainnav, .footer-is-light .store-footer {
+    /* background: #faf7f2 !important; */
+    /* background: #ffffff !important; */
+    background: #2b2b54 !important;
 }
+
 
 
 
