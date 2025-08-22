@@ -68,11 +68,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 /* ====== GENERAL ====== */
-/*
-body.index,body, .s-comments-product,.bg-white,.s-quantity-input-container,.banner--fixed img,.tamara-product-widget, .spotii-wrapper, .banner-entry, .mm-spn.mm-spn--light,#mainnav,.footer-is-light .store-footer  {
-   
-    background: #010001 !important;
-}*/
+
 body.index, body, .s-comments-product, .bg-white, .s-quantity-input-container, .banner--fixed img, .tamara-product-widget, .spotii-wrapper, .banner-entry, .mm-spn.mm-spn--light, #mainnav, .footer-is-light .store-footer,footer.store-footer{
     /* background: #faf7f2 !important; */
     /* background: #ffffff !important; */
@@ -790,4 +786,5 @@ a {
    
 
 }
+
 
