@@ -787,6 +787,10 @@ a {
 
 }
 
+body.index, body, .s-comments-product, .bg-white, .s-quantity-input-container, .banner--fixed img, .tamara-product-widget, .spotii-wrapper, .banner-entry, .mm-spn.mm-spn--light, #mainnav, .footer-is-light .store-footer,footer.store-footer{
+   
+    background: #302b59 !important;
+}
 
 
 
