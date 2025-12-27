@@ -1,0 +1,16 @@
+custom-salla-product-card .s-product-card-content-title::after,def-custom-salla-product-card .s-product-card-content-title::after,my-custom-salla-product-card .s-product-card-content::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1.5rem;
+    background-image: url("https://media.zid.store/b962db3a-9aad-41a2-aa9a-fe622a1dde26/8a0c44b3-f50b-4a35-88d6-f055a99b7848.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+   font-size:2rem;
+    margin: 0.0rem 0 0;
+}
+my-custom-salla-product-card .s-product-card-content::before {
+	background-position:center;
+}
+body{background:red !important}
