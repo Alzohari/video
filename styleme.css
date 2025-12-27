@@ -13,8 +13,4 @@ custom-salla-product-card .s-product-card-content-title::after,def-custom-salla-
 my-custom-salla-product-card .s-product-card-content::before {
 	background-position:center;
 }
-
 body{background:red !important;color:white !important}
-body{color:white !important}
-
-
